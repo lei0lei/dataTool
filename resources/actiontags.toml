@@ -1,0 +1,69 @@
+title = "action tags used for scraping videos"
+
+[owner]
+creater = "fanlei meng"
+data = 2022-09-29T11:25:00-12:00
+
+[source]
+web1 = "youtube.com"
+
+[tags.scene]
+tags = [
+    "outdoor", 
+    "interior", 
+    "indoor", 
+    "room",
+    "home"
+]
+
+[tags.baseaction]
+tags = [
+    "walk","walking",
+    "sit","sitting",
+    "stand","standing",
+    "lying",
+    "run","running",
+    "sleep",
+    "dance",
+    "jump"
+]
+
+[tags.role]
+tags = ["elder",
+        "baby",
+        "man",
+        "woman",
+        "young",
+        "kid",
+        "child",
+        "grandma"
+]
+
+[tags.channel]
+tags = ["food",
+        "life",
+        "game",
+        "art",
+]
+
+[tags.doing]
+tags = ["watching",
+        "reading",
+        "speaking",
+        "fighting",
+        "crawing"
+]
+
+[tags.noun]
+tags = ["chair",
+        "bed",
+        "sofa",
+        "ground",
+        "door",
+        "lunch",
+        "cup",
+        "tv",
+        "table",
+        "piano",
+        "book",
+        "paper",]
